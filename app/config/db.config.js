@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/tutorial_db"
+    url: "DROP A CONNECTION HERE"
 };
